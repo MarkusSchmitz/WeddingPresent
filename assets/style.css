@@ -62,6 +62,7 @@ body {
   width: 100%;
   height: 100vh;
   overflow: hidden;
+  font-family: 'Lato', sans-serif;
 }
 .content {
   width: auto;
@@ -70,17 +71,17 @@ body {
 }
 
 .animation-wrapper {
-  width: 250%;
-  padding-bottom: 50%;
-  position: absolute;
+  width: 80%;
+  padding-bottom: 0%;
+  align-items: center;
+  /*position: absolute;*/
 }
 
 .sphere-animation {
   position: absolute;
-
   width: 580px;
   height: 580px;
-  margin: -290px 0 0 -290px;
+  margin: 0 0 0 0;
   z-index: 0;
 }
 
