@@ -83,6 +83,11 @@ body {
   margin: auto;
 }
 
+a {
+  text-decoration: none;
+  color:rgb(140, 56, 219);
+}
+
 h1 {
   font-weight: bold;
   padding-bottom: 25px;
